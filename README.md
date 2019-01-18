@@ -17,4 +17,5 @@ All ideas are sandboxed to just a few lines. There are links to related ideas to
 ## Further Reading
 
 [ELI5](https://en.wiktionary.org/wiki/ELI5)
+
 [Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
