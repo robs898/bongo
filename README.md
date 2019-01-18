@@ -10,6 +10,8 @@ As Richard Feynman once said:
 
 I want to try and see if I really understand complex ideas by reducing them to a "freshman level".
 
+The name "bongo" is a nod to Feynman's love of the [bongo](https://www.youtube.com/watch?v=HKTSaezB4p8)
+
 Also see: [ELI5](https://en.wiktionary.org/wiki/ELI5)
 
 ## Navigation
