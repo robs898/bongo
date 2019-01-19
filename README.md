@@ -1,7 +1,5 @@
 # Robbie's bongo
 
-## Premise
-
 Here I attempt to explain complex ideas in a simple, concise way.
 
 As Richard Feynman once said:
@@ -12,10 +10,8 @@ The name "bongo" is a nod to Feynman's love of the [bongo](https://www.youtube.c
 
 ## Navigation
 
-All ideas are sandboxed to just a few lines. There are links to related ideas to use if required.
+All ideas are sandboxed to just a few lines like a [capsule review](https://en.wikipedia.org/wiki/Capsule_review).
 
-## Further Reading
+The required reading allows you to understand complex ideas from several small simple explanations.
 
-[ELI5](https://en.wiktionary.org/wiki/ELI5)
-
-[Simple Wikipedia](https://simple.wikipedia.org/wiki/Main_Page)
+For example [Money](https://en.wiktionary.org/wiki/ELI5) should be read before [Pension](https://en.wiktionary.org/wiki/ELI5)
