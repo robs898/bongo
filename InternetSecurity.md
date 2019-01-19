@@ -1,6 +1,6 @@
 ## Required Reading
-[Internet](https://github.com/robs898/bongo/blob/master/Internet.md)
-[Cloud](https://github.com/robs898/bongo/blob/master/Cloud.md)
+- [Internet](https://github.com/robs898/bongo/blob/master/Internet.md)
+- [Cloud](https://github.com/robs898/bongo/blob/master/Cloud.md)
 
 # [Internet Security](https://github.com/robs898/bongo/blob/master/InternetSecurity.md)
 On the internet you can choose how [private](https://github.com/robs898/bongo/blob/master/InternetPrivacy.md) you want to be but security is essential to avoid unwanted parties getting your personal information.
