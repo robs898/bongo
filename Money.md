@@ -8,11 +8,9 @@ To save people walking around with gold, currency such as notes were used instea
 >I PROMISE TO PAY THE BEARER ON DEMAND THE SUM OF FIVE POUNDS
 
 ## Further Reading
-[BankAccount](https://github.com/robs898/bongo/blob/master/DefinedBenefitPension.md)
+- [BankAccount](https://github.com/robs898/bongo/blob/master/DefinedBenefitPension.md)
 
 ## Related
-[Investing](https://github.com/robs898/bongo/blob/master/Investing.md)
-
-[Shares](https://github.com/robs898/bongo/blob/master/Shares.md)
-
-[Stocks](https://github.com/robs898/bongo/blob/master/Stocks.md)
+- [Investing](https://github.com/robs898/bongo/blob/master/Investing.md)
+- [Shares](https://github.com/robs898/bongo/blob/master/Shares.md)
+- [Stocks](https://github.com/robs898/bongo/blob/master/Stocks.md)
