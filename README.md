@@ -14,4 +14,4 @@ All ideas are sandboxed to just a few lines like a [capsule review](https://en.w
 
 The required reading allows you to understand complex ideas from several small simple explanations.
 
-For example [Money](https://en.wiktionary.org/wiki/ELI5) should be read before [Pension](https://en.wiktionary.org/wiki/ELI5)
+For example [Money](https://github.com/robs898/bongo/blob/master/Money.md) should be read before [Pension](https://github.com/robs898/bongo/blob/master/Pension.md)
