@@ -1,5 +1,5 @@
 ## Required Reading
-[Empire](https://github.com/robs898/bongo/blob/master/Empire.md)
+- [Empire](https://github.com/robs898/bongo/blob/master/Empire.md)
 
 # [WW1](https://github.com/robs898/bongo/blob/master/WW1.md)
 In 1914 Europe was made up of several large empire nations who all formed allegiances with each other.
