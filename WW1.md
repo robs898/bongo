@@ -1,7 +1,7 @@
 ## Required Reading
 - [Empire](https://github.com/robs898/bongo/blob/master/Empire.md)
 
-# [WW1](https://github.com/robs898/bongo/blob/master/WW1.md)
+# [World War 1 (The Great War)](https://github.com/robs898/bongo/blob/master/WW1.md)
 In 1914 the prince of Austria-Hungary was assassinated which prompted Austria-Hungary to declare war on Serbia.
 
 Germany sided with Austria-Hungary and they attempted to end the war quickly by invading France first.
