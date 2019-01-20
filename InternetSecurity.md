@@ -11,6 +11,7 @@ On the internet you can choose how [private](https://github.com/robs898/bongo/bl
 - Don't unlock with fingerprint. Use a 6+ digit passcode.
 - Use an iPhone/iPad/Chromebook.
 - Use a password manager and [U2F](https://github.com/robs898/bongo/blob/master/U2F.md)/[2FA](https://github.com/robs898/bongo/blob/master/2FA.md).
+- Use your secure gmail/facebook/github accounts with full U2F/2FA to login to other websites.
 - Use Google Chrome with ublock origin and HTTPS everywhere.
 - Use a different phone abroad.
 - Always update all software with auto-update.
