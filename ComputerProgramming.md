@@ -10,17 +10,17 @@ The input data and output can be stored long term in a Database.
 ## Example
 This document is written in Markdown. This provides data in a specific format for Github to convert this into the nice webpage you are reading.
 
-Raw input:
+### Raw input:
 ```
-# these
-## are
-### headings
+- test
+> test
+### test
 ```
 
-Output:
-# these
-## are
-### headings
+### Output:
+- test
+> test
+### test
 
 ## Further Reading
 - [Database](https://github.com/robs898/bongo/blob/master/Database.md)
