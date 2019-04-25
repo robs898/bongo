@@ -18,7 +18,7 @@ Case: [Money](https://github.com/robs898/bongo/blob/master/Money.md) should be r
 
 Ideas are should be a few lines like a [capsule review](https://en.wikipedia.org/wiki/Capsule_review).
 
-Please only use the [ten hundred most used words](https://splasho.com/upgoer5/phpspellcheck/dictionaries/1000.dicin)
+Please only use the [ten hundred most used words](https://splasho.com/upgoer5/phpspellcheck/dictionaries/1000.dicin).
 
 Except for idea names. Case: [Pension](https://github.com/robs898/bongo/blob/master/Pension.md)
 
