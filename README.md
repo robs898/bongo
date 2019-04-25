@@ -15,3 +15,12 @@ All ideas are sandboxed to just a few lines like a [capsule review](https://en.w
 The required reading allows you to understand complex ideas from several small simple explanations.
 
 For example [Money](https://github.com/robs898/bongo/blob/master/Money.md) should be read before [Pension](https://github.com/robs898/bongo/blob/master/Pension.md)
+
+## Contributing
+
+Please ensure you only use the [ten hundred most used words](https://splasho.com/upgoer5/phpspellcheck/dictionaries/1000.dicin)
+
+Here are editors to help:
+
+* https://splasho.com/upgoer5/
+* https://xkcd.com/simplewriter/
